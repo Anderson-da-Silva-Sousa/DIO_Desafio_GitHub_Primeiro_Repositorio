@@ -1,5 +1,5 @@
 # <h1>DIO_Desafio_GitHub_Primeiro_Repositorio</h1>
-Desafio de Projeto sobre Git/GitHub da DIO
+ <h3>Desafio de Projeto sobre Git/GitHub da DIO</h3>
 
 ## <h2>Links Úteis</h2>
 [Site da DIO](https://web.dio.me/play)
