@@ -8,4 +8,4 @@
 [Introdução ao Git e ao GitHub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)
 
   <p>I really like using Markdown.</p>
-       <p>I think I'll use it to format all of my documents from now on.</p>
+       I think I'll use it to format all of my documents from now on.
